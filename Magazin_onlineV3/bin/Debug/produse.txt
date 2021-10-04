@@ -1,0 +1,5 @@
+Procesor i5,800,10,1,Descriere procesor
+Placa video 3060,4500,1,2,Descriere placa video
+Carcasa Raidmax,302,120,3,Descriere carcasa
+Placa video 3090,9000,4,4,Descriere placa video
+Memorie Corsair,229.99,100,5,Descriere ram

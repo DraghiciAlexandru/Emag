@@ -1,0 +1,20 @@
+D:\C#\UI design\Dinamic\Magazin_onlineV3\Magazin_onlineV3\obj\Debug\Magazin_onlineV3.csprojAssemblyReference.cache
+D:\C#\UI design\Dinamic\Magazin_onlineV3\Magazin_onlineV3\obj\Debug\Magazin_onlineV3.Properties.Resources.resources
+D:\C#\UI design\Dinamic\Magazin_onlineV3\Magazin_onlineV3\obj\Debug\Magazin_onlineV3.csproj.GenerateResource.cache
+D:\C#\UI design\Dinamic\Magazin_onlineV3\Magazin_onlineV3\bin\Debug\Magazin_onlineV3.exe.config
+D:\C#\UI design\Dinamic\Magazin_onlineV3\Magazin_onlineV3\bin\Debug\Magazin_onlineV3.exe
+D:\C#\UI design\Dinamic\Magazin_onlineV3\Magazin_onlineV3\bin\Debug\Magazin_onlineV3.pdb
+D:\C#\UI design\Dinamic\Magazin_onlineV3\Magazin_onlineV3\obj\Debug\Magazin_onlineV3.exe
+D:\C#\UI design\Dinamic\Magazin_onlineV3\Magazin_onlineV3\obj\Debug\Magazin_onlineV3.pdb
+D:\C#\UI design\Dinamic\Magazin_onlineV3\Magazin_onlineV3\obj\Debug\Magazin_onlineV3.Template.FrmTest.resources
+D:\C#\UI design\Dinamic\Magazin_onlineV3\Magazin_onlineV3\obj\Debug\Magazin_onlineV3.View.ViewMagazin.resources
+D:\C#\UIdesign\Dinamic\Magazin_onlineV3\Magazin_onlineV3\bin\Debug\Magazin_onlineV3.exe.config
+D:\C#\UIdesign\Dinamic\Magazin_onlineV3\Magazin_onlineV3\bin\Debug\Magazin_onlineV3.exe
+D:\C#\UIdesign\Dinamic\Magazin_onlineV3\Magazin_onlineV3\bin\Debug\Magazin_onlineV3.pdb
+D:\C#\UIdesign\Dinamic\Magazin_onlineV3\Magazin_onlineV3\obj\Debug\Magazin_onlineV3.csprojAssemblyReference.cache
+D:\C#\UIdesign\Dinamic\Magazin_onlineV3\Magazin_onlineV3\obj\Debug\Magazin_onlineV3.Properties.Resources.resources
+D:\C#\UIdesign\Dinamic\Magazin_onlineV3\Magazin_onlineV3\obj\Debug\Magazin_onlineV3.Template.FrmTest.resources
+D:\C#\UIdesign\Dinamic\Magazin_onlineV3\Magazin_onlineV3\obj\Debug\Magazin_onlineV3.View.ViewMagazin.resources
+D:\C#\UIdesign\Dinamic\Magazin_onlineV3\Magazin_onlineV3\obj\Debug\Magazin_onlineV3.csproj.GenerateResource.cache
+D:\C#\UIdesign\Dinamic\Magazin_onlineV3\Magazin_onlineV3\obj\Debug\Magazin_onlineV3.exe
+D:\C#\UIdesign\Dinamic\Magazin_onlineV3\Magazin_onlineV3\obj\Debug\Magazin_onlineV3.pdb
